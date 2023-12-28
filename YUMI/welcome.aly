@@ -1,0 +1,16 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  layout_height="fill";
+  gravity="center";
+  orientation="horizontal";
+  {
+    ProgressBar;
+  };
+  {
+    TextView;
+    id='txt';
+    padding="10dp";
+    text="正在检查权限...";
+  };
+};

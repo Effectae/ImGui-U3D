@@ -1,0 +1,19 @@
+import "com.limo.tool.*"
+import "android.util.*"
+import "android.content.*"
+import "android.provider.*"
+import "android.net.*"
+import "android.graphics.*"
+import "android.graphics.Paint$Cap"
+import "android.animation.*"
+import "java.io.*"
+--导入Android API
+
+import "yumi/animation"--导入动画库
+import "yumi/stdin"--导入日志模块
+import "yumi/dialog"--导入对话框
+import "yumi/core"--导入核心库
+import "yumi/tool"--导入工具库
+import "yumi/paint"--导入画笔
+import "yumi/window"--导入窗口
+import "yumi/draw"--导入绘制
